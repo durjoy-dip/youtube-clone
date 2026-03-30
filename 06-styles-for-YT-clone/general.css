@@ -1,0 +1,17 @@
+body {
+  font-family: Roboto, Arial;
+  /* height: 3000px; */
+  margin: 0px;
+  /* for getting rid of the default margins of the body */
+  padding-top: 78px;
+  padding-left: 93px;
+  padding-right: 23px;
+  background-color: rgb(249, 249, 249);
+}
+
+p {
+  /* font-family: Roboto, Arial; */
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
